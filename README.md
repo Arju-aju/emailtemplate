@@ -5,10 +5,10 @@ This project contains responsive HTML email templates built with **table-based l
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](./screenshots/fullscreen.png)
+![Desktop Screenshot](./fullscreen.png)
 
 ### Mobile View
-![Mobile Screenshot](./screenshots/iphone12pro.png)
+![Mobile Screenshot](./iphone12pro.png)
 
 ## 🚀 Features
 - Responsive design (desktop & mobile)
